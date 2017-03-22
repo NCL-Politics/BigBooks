@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to the Big Books seminar series
+## Politics @ Newcastle University
 
-You can use the [editor on GitHub](https://github.com/NCL-Politics/BigBooks/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+BIG Books is a pilot initiative to address a distinctive training need innate to the British PhD system: the lack of opportunities for candidates to engage with work outside of their topic area and to gain a wider appreciation of the discipline.  BIG Books are monographs that have helped to define and/or shape particular fields in politics and international studies. They have also been selected by members of staff due to their influence (either direct or indirect) over their individual intellectual trajectories.
+ 
+BIG Books is run in a seminar format. There is set reading from the BIG Book in question—and people are encouraged to go beyond this should they wish. This set reading is discussed in the seminar with the member of staff who nominated it serving as moderator for the discussion. This will include a short overview of the book’s position within the field as well as discussions about a book’s strengths and weaknesses. But the seminar is primarily a PGR demand-driven activity in terms of what gets discussed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**For each seminar, those participating (PGR students and staff) are required to sign up for each book. The link is under each description**
 
-### Markdown
+### Book 1: The Nature and Origins of Mass Opinion by John Zaller
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Day and Time: May 4th 2017, 11-12 AM
+#### Room: Politics Building G.22
 
-```markdown
-Syntax highlighted code block
+Our first BIG Book is [The Nature and Origins of Mass Opinion](http://www.cambridge.org/gb/academic/subjects/politics-international-relations/comparative-politics/nature-and-origins-mass-opinion?localeText=United+Kingdom&locale=en_GB&query=&remember_me=on) selected by Dr. [Javier Sajuria](http://www.ncl.ac.uk/gps/staff/profile/javiersajuria.html#background). 
 
-# Header 1
-## Header 2
-### Header 3
+Javier notes that this has been particularly influential in the areas of public opinion, political psychology, and media. More importantly, the research problem tackled by the book has a renewed resonance in a political era that has become increasingly defined by accusations of ‘fake news’, disinformation, and  ‘alternative facts’. 
 
-- Bulleted
-- List
+Excerpts for the BIG Books seminar can be found [here](http://www.sajuria.com/wp-content/uploads/2017/03/Zaller_BigBooks.zip).
 
-1. Numbered
-2. List
+Signup for the seminar is [here](https://goo.gl/forms/T4h57D87dNazelwA3)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NCL-Politics/BigBooks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
