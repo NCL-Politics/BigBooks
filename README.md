@@ -7,7 +7,7 @@ BIG Books are monographs that have helped to define and/or shape particular fiel
  
 BIG Books is run in a seminar format. There is set reading from the BIG Book in question—and people are encouraged to go beyond this should they wish. This set reading is discussed in the seminar with the member of staff who nominated it serving as moderator for the discussion. This will include a short overview of the book’s position within the field as well as discussions about a book’s strengths and weaknesses. But the seminar is primarily a PGR demand-driven activity in terms of what gets discussed.
 
-_*For each seminar, those participating (PGR students and staff) are required to sign up for each book. The link is under each description*_
+*For each seminar, those participating (PGR students and staff) are required to sign up for each book. The link is under each description*
 
 ### Book 1: The Nature and Origins of Mass Opinion by John Zaller
 
